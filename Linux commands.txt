@@ -1,0 +1,56 @@
+ls: To check "Lists" the files and directories in the current directory.
+
+
+1.cd: To Changes the "Current directory". 
+	How to Use: cd [directory].
+
+2.pwd: It Prints the current working directory Name.
+
+3.mkdir: Creates a new directory.
+	How to Use: mkdir [directory].
+
+4.rm: Removes files and directories. 
+	How to Use: rm [file/directory]. 
+
+5.cp: Copies files and directories. 
+	How to Use: cp [source] [destination]. 
+
+6.mv: Moves or renames files and directories. 
+	How to Use: mv [source] [destination].
+
+
+7.touch: Creates a new empty file.
+	How to Use: touch [filename].
+
+8.cat: Displays the contents of a file. 
+	How to Use: cat [filename].
+
+9.grep: Searches for a pattern in files.
+	How to Use: grep [pattern] [file(s)].
+
+
+10.chmod: Changes the permissions of a file or directory. 
+	How to Use: chmod [permissions] [file/directory].
+
+
+11.chown: Changes the owner and group of a file or directory. 
+	How to Use: chown [owner:group] [file/directory].
+
+
+12.sudo: Executes a command with administrative privileges.
+
+
+Symbols in linux
+
+1 " ~ "(Tilde): 
+	Represents the home directory of the current user
+
+2 " . "(Dot):
+	 Represents the current directory.
+
+3 " .. "
+	(Double Dot): Represents the parent directory
+
+4 " / "(Forward Slash):
+	Represents the directory separator in file paths
+
